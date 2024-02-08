@@ -1,0 +1,19 @@
+# Environments
+.venv
+venv/
+# .env
+#/database.ini
+
+# PyCharm
+.idea/
+
+#pytest
+/pytest.ini
+/pytestdebug.log
+/.pytest_cache/
+
+#allure
+allure-report/
+allure-results/
+
+
